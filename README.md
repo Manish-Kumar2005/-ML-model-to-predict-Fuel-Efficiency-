@@ -16,7 +16,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 ### Installation
 Clone the repository to your local machine:
-``` git clone git clone https://github.com/manish-kumar-459920281/Fuel-Efficiency.git
+```git clone https://github.com/manish-kumar-459920281/Fuel-Efficiency.git
 ```
 
 ### Install the required Python libraries:
